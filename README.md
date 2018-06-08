@@ -1,3 +1,0 @@
-# VASP
-AIMD
-
